@@ -1,13 +1,14 @@
-﻿@model IEnumerable<MyClass.Model.Products>
+﻿﻿@model IEnumerable<MyClass.Model.Products>
 
 @{
-    ViewBag.Title = "Trang chủ của sản phẩm";
+    ViewBag.Title = "Trang chủ sản phẩm";
     Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
 }
 
 @section header{
     <link rel="stylesheet" href="~/Public/css/jquery.dataTables.min.css" />
 }
+
 @section footer{
     <script src="~/Public/js/jquery.dataTables.min.js"></script>
     <script>let table = new DataTable('#myTable');</script>
@@ -61,7 +62,7 @@
                                     <td>@Html.DisplayFor(modelItem => item.SupplierId)</td>
                                     <td>@Html.DisplayFor(modelItem => item.Price)</td>
                                     <td>@Html.DisplayFor(modelItem => item.Qty)</td>
-                                    <td><img src="~/Public/img/product/@item.Img" alt="Img" class="img-fluid"</td>
+                                    <td><img src="~/Public/img/product/@item.Img" alt="Img" class="img-fluid" /></td>
                                     <td>
                                         @if (item.Status == 1)
                                         {
@@ -79,6 +80,7 @@
                             }
                         </tbody>
                     </table>
+
                 </div> <!-- /.card-footer-->
             </div><!-- /.card -->
         </section><!-- /.content -->

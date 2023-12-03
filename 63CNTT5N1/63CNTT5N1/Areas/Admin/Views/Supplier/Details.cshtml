@@ -4,11 +4,9 @@
     ViewBag.Title = "Chi tiết nhà cung cấp";
     Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
 }
-
 @using (Html.BeginForm())
 {
     @Html.AntiForgeryToken()
-
     <div class="wrapper">
         <!-- Main Sidebar Container -->
         <!-- Content Wrapper. Contains page content -->
@@ -25,7 +23,7 @@
                             </div>
 
                             <div class="col-md-6 text-right">
-                                <a href="@Url.Action("Index", "Supplier")" class="btn-sm btn-info"><i class="fa fa-long-arrow-alt-left"></i> Quay lại</a>
+                                <a href="@Url.Action("Index","Supplier")" class="btn-sm btn-info"><i class="fa fa-long-arrow-alt-left"></i> Quay lại</a>
                             </div>
                         </div>
                     </div>
@@ -45,18 +43,16 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                {
                                 <tr>
                                     <td><input type="checkbox" name="id" value="" /></td>
                                     <td>@Html.DisplayFor(model => model.Id)</td>
                                     <td>@Html.DisplayFor(model => model.Name)</td>
-                                    <td><img src="~/Public/img/supplier/@Model.Img" alt="Img" class="img-fluid"</td>
+                                    <td><img src="~/Public/img/supplier/@Model.Img" alt="Img" class="img-fluid" /></td>
                                     <td>@Html.DisplayFor(model => model.Slug)</td>
                                     <td>@Html.DisplayFor(model => model.Order)</td>
                                     <td>@Html.DisplayFor(model => model.Phone)</td>
                                     <td>@Html.DisplayFor(model => model.Email)</td>
                                 </tr>
-                                }
                             </tbody>
                         </table>
 

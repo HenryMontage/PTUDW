@@ -1,14 +1,13 @@
-﻿@model MyClass.Model.Products
+﻿﻿@model MyClass.Model.Products
 
 @{
-    ViewBag.Title = "CHI TIẾT SẢN PHẨM";
+    ViewBag.Title = "Chi tiết sản phẩm";
     Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
 }
 
 @using (Html.BeginForm())
 {
     @Html.AntiForgeryToken()
-
     <div class="wrapper">
         <!-- Main Sidebar Container -->
         <!-- Content Wrapper. Contains page content -->
@@ -25,7 +24,7 @@
                             </div>
 
                             <div class="col-md-6 text-right">
-                                <a href="@Url.Action("Index", "Product")" class="btn-sm btn-info"><i class="fa fa-long-arrow-alt-left"></i> Quay lại</a>
+                                <a href="@Url.Action("Index","Product")" class="btn-sm btn-info"><i class="fa fa-long-arrow-alt-left"></i> Quay lại</a>
                             </div>
                         </div>
                     </div>
@@ -46,7 +45,6 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                {
                                 <tr>
                                     <td><input type="checkbox" name="id" value="" /></td>
                                     <td>@Html.DisplayFor(model => model.Id)</td>
@@ -58,7 +56,6 @@
                                     <td><img src="~/Public/img/product/@Model.Img" alt="Img" class="img-fluid" /></td>
                                     <td>@Html.DisplayFor(model => model.Status)</td>
                                 </tr>
-                                }
                             </tbody>
                         </table>
 
@@ -68,4 +65,3 @@
         </div> <!-- /.content-wrapper -->
     </div><!-- ./wrapper -->
 }
-
