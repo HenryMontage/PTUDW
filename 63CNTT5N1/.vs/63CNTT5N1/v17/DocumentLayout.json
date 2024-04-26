@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC9AF83-3749-4660-8D07-BD50061360C5}|MyClass\\MyClass.csproj|c:\\lap trinh dai hoc\\ptudw\\ptudw\\63cntt5n1\\myclass\\model\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC9AF83-3749-4660-8D07-BD50061360C5}|MyClass\\MyClass.csproj|solutionrelative:myclass\\model\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC9AF83-3749-4660-8D07-BD50061360C5}|MyClass\\MyClass.csproj|c:\\lap trinh dai hoc\\ptudw\\ptudw\\63cntt5n1\\myclass\\dao\\menusdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC9AF83-3749-4660-8D07-BD50061360C5}|MyClass\\MyClass.csproj|solutionrelative:myclass\\dao\\menusdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F583898E-4940-4D91-9142-E0A9B72C0EEC}|63CNTT5N1\\63CNTT5N1.csproj|c:\\lap trinh dai hoc\\ptudw\\ptudw\\63cntt5n1\\63cntt5n1\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F583898E-4940-4D91-9142-E0A9B72C0EEC}|63CNTT5N1\\63CNTT5N1.csproj|solutionrelative:63cntt5n1\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F583898E-4940-4D91-9142-E0A9B72C0EEC}|63CNTT5N1\\63CNTT5N1.csproj|C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63cntt5n1\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F583898E-4940-4D91-9142-E0A9B72C0EEC}|63CNTT5N1\\63CNTT5N1.csproj|solutionrelative:63cntt5n1\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F583898E-4940-4D91-9142-E0A9B72C0EEC}|63CNTT5N1\\63CNTT5N1.csproj|C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63cntt5n1\\areas\\admin\\controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F583898E-4940-4D91-9142-E0A9B72C0EEC}|63CNTT5N1\\63CNTT5N1.csproj|solutionrelative:63cntt5n1\\areas\\admin\\controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F583898E-4940-4D91-9142-E0A9B72C0EEC}|63CNTT5N1\\63CNTT5N1.csproj|C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63cntt5n1\\areas\\admin\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F583898E-4940-4D91-9142-E0A9B72C0EEC}|63CNTT5N1\\63CNTT5N1.csproj|solutionrelative:63cntt5n1\\areas\\admin\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F583898E-4940-4D91-9142-E0A9B72C0EEC}|63CNTT5N1\\63CNTT5N1.csproj|C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63cntt5n1\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F583898E-4940-4D91-9142-E0A9B72C0EEC}|63CNTT5N1\\63CNTT5N1.csproj|solutionrelative:63cntt5n1\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F583898E-4940-4D91-9142-E0A9B72C0EEC}|63CNTT5N1\\63CNTT5N1.csproj|C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63cntt5n1\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F583898E-4940-4D91-9142-E0A9B72C0EEC}|63CNTT5N1\\63CNTT5N1.csproj|solutionrelative:63cntt5n1\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F583898E-4940-4D91-9142-E0A9B72C0EEC}|63CNTT5N1\\63CNTT5N1.csproj|C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63cntt5n1\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F583898E-4940-4D91-9142-E0A9B72C0EEC}|63CNTT5N1\\63CNTT5N1.csproj|solutionrelative:63cntt5n1\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menus.cs",
+              "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\MyClass\\Model\\Menus.cs",
+              "RelativeDocumentMoniker": "MyClass\\Model\\Menus.cs",
+              "ToolTip": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\MyClass\\Model\\Menus.cs",
+              "RelativeToolTip": "MyClass\\Model\\Menus.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAADwvzgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:30:38.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenusDAO.cs",
+              "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\MyClass\\DAO\\MenusDAO.cs",
+              "RelativeDocumentMoniker": "MyClass\\DAO\\MenusDAO.cs",
+              "ToolTip": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\MyClass\\DAO\\MenusDAO.cs",
+              "RelativeToolTip": "MyClass\\DAO\\MenusDAO.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T16:30:33.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63CNTT5N1\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "63CNTT5N1\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63CNTT5N1\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "63CNTT5N1\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-12-07T03:51:31.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63CNTT5N1\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "63CNTT5N1\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63CNTT5N1\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "63CNTT5N1\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-07T03:41:59.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63CNTT5N1\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "63CNTT5N1\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63CNTT5N1\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "63CNTT5N1\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEQAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-12-07T03:38:00.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63CNTT5N1\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "63CNTT5N1\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63CNTT5N1\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "63CNTT5N1\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAswKYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-06T14:36:07.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TopicController.cs",
+              "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63CNTT5N1\\Areas\\Admin\\Controllers\\TopicController.cs",
+              "RelativeDocumentMoniker": "63CNTT5N1\\Areas\\Admin\\Controllers\\TopicController.cs",
+              "ToolTip": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63CNTT5N1\\Areas\\Admin\\Controllers\\TopicController.cs",
+              "RelativeToolTip": "63CNTT5N1\\Areas\\Admin\\Controllers\\TopicController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAkwKQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-07T02:01:21.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63CNTT5N1\\Areas\\Admin\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "63CNTT5N1\\Areas\\Admin\\Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63CNTT5N1\\Areas\\Admin\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "63CNTT5N1\\Areas\\Admin\\Controllers\\SupplierController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-06T16:33:11.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63CNTT5N1\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "63CNTT5N1\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63CNTT5N1\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "63CNTT5N1\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-06T16:33:10.768Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
