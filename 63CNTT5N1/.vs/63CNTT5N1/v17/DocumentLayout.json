@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F583898E-4940-4D91-9142-E0A9B72C0EEC}|63CNTT5N1\\63CNTT5N1.csproj|C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63cntt5n1\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4AC9AF83-3749-4660-8D07-BD50061360C5}|MyClass\\MyClass.csproj|c:\\lap trinh dai hoc\\ptudw\\ptudw\\63cntt5n1\\myclass\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4AC9AF83-3749-4660-8D07-BD50061360C5}|MyClass\\MyClass.csproj|solutionrelative:myclass\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F583898E-4940-4D91-9142-E0A9B72C0EEC}|63CNTT5N1\\63CNTT5N1.csproj|c:\\lap trinh dai hoc\\ptudw\\ptudw\\63cntt5n1\\63cntt5n1\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F583898E-4940-4D91-9142-E0A9B72C0EEC}|63CNTT5N1\\63CNTT5N1.csproj|solutionrelative:63cntt5n1\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AC9AF83-3749-4660-8D07-BD50061360C5}|MyClass\\MyClass.csproj|c:\\lap trinh dai hoc\\ptudw\\ptudw\\63cntt5n1\\myclass\\model\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4AC9AF83-3749-4660-8D07-BD50061360C5}|MyClass\\MyClass.csproj|C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\myclass\\model\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AC9AF83-3749-4660-8D07-BD50061360C5}|MyClass\\MyClass.csproj|solutionrelative:myclass\\model\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -46,11 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\MyClass\\App.config",
+              "RelativeDocumentMoniker": "MyClass\\App.config",
+              "ToolTip": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\MyClass\\App.config",
+              "RelativeToolTip": "MyClass\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-04T02:32:30.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Menus.cs",
               "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\MyClass\\Model\\Menus.cs",
               "RelativeDocumentMoniker": "MyClass\\Model\\Menus.cs",
@@ -58,12 +75,11 @@
               "RelativeToolTip": "MyClass\\Model\\Menus.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T16:30:38.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T16:30:38.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MenusDAO.cs",
               "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\MyClass\\DAO\\MenusDAO.cs",
               "RelativeDocumentMoniker": "MyClass\\DAO\\MenusDAO.cs",
@@ -71,12 +87,11 @@
               "RelativeToolTip": "MyClass\\DAO\\MenusDAO.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T16:30:33.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T16:30:33.247Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63CNTT5N1\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
               "RelativeDocumentMoniker": "63CNTT5N1\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
@@ -88,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63CNTT5N1\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "63CNTT5N1\\Areas\\Admin\\Views\\Category\\Create.cshtml",
@@ -100,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63CNTT5N1\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "63CNTT5N1\\Areas\\Admin\\Views\\Category\\Index.cshtml",
@@ -113,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63CNTT5N1\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "63CNTT5N1\\Areas\\Admin\\Controllers\\CategoryController.cs",
@@ -125,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TopicController.cs",
               "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63CNTT5N1\\Areas\\Admin\\Controllers\\TopicController.cs",
               "RelativeDocumentMoniker": "63CNTT5N1\\Areas\\Admin\\Controllers\\TopicController.cs",
@@ -137,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SupplierController.cs",
               "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63CNTT5N1\\Areas\\Admin\\Controllers\\SupplierController.cs",
               "RelativeDocumentMoniker": "63CNTT5N1\\Areas\\Admin\\Controllers\\SupplierController.cs",
@@ -149,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Lap trinh Dai Hoc\\PTUDW\\PTUDW\\63CNTT5N1\\63CNTT5N1\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "63CNTT5N1\\Areas\\Admin\\Controllers\\ProductController.cs",
